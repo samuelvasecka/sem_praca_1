@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PosledneId
+comment0.text=\r\n\ Tato\ trieda\ umoznuje\ pracovat\ s\ textovym\ suborom,\ ktory\r\n\ uchovava\ udaje\ o\ identifikacnom\ cisle\ posledneho\ hraca.\r\n\ \r\n\ @author\ (Vasecka)\ \r\n\ @version\ (1.0\ 2018)\r\n
+comment1.params=cislo
+comment1.target=void\ vlozDoSuboru1(int)
+comment1.text=\r\n\ Metoda\ vlozDoSuboru1\ zapise\ do\ suboru\ konkretne\ cislo\r\n\ zadane\ parametrom\ cislo.\r\n
+comment2.params=
+comment2.target=void\ vlozDoSuboru()
+comment2.text=\r\n\ Metoda\ vlozDoSuboru\ zapise\ do\ suboru\ cislo\ 99\ v\ pripade,\r\n\ ze\ je\ subor\ prazdny.\r\n
+comment3.params=
+comment3.target=int\ vyberZoSuboru()
+comment3.text=\r\n\ Metoda\ vyberZoSuboru\ precita\ subor\ a\ vrati\ hodnotu,\ ktoru\ v\ sebe\ \r\n\ subor\ mal.\ Tiez\ na\ zaciatku,\ ak\ je\ subor\ prazdny\ spusti\ \r\n\ metodu\ vlozDoSuboru,\ inak\ spusti\ metodu\ vyberZoSuboru1,\ ktorej\r\n\ vlozi\ ako\ parameter\ cislo\ precitane\ zo\ suboru\ +\ 1.\r\n
+numComments=4

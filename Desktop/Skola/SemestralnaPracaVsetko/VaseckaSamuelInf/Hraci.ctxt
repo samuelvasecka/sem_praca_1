@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Hraci
+comment0.text=\r\n\ Tato\ trieda\ umoznuje\ vytvorit\ profil\ hraca,\ ktory\ sa\ sklada\ \r\n\ z\ mena,\ ktore\ si\ sam\ zada\ a\ z\ identifikacneho\ cisla,\ ktore\ je\r\n\ automaticky\ pridelene.\r\n\ \r\n\ @author\ (Vasecka)\ \r\n\ @version\ (1.0\ 2018)\r\n
+comment1.params=nickName\ cisloId
+comment1.target=Hraci(java.lang.String,\ PosledneId)
+comment1.text=\r\n\ Konstruktor\ vytvori\ asociaciu\ s\ triedou\ PosledneId\r\n\ atributu\ cislo\ priradi\ hodnotu,\ ktoru\ ziska\ precitanim\r\n\ suboru,\ a\ ktora\ predstavuje\ jeho\ identifikacne\ cislo.\ Nasledne\ sa\r\n\ aj\ atribut\ triedy\ zmeni\ na\ rovnaku\ hodnotu\ a\ nakoniec\ aj\ atribut\ \r\n\ id\ nadobudne\ tuto\ hodnotu.\ Konstruktor\ tiez\ atributu\ nickName\r\n\ priradi\ parameter\ nickNAme.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNickName()
+comment2.text=\r\n\ Metoda\ getNickName\ vrati\ hodnotu\ atributu\ nickName.\r\n
+comment3.params=
+comment3.target=int\ getId()
+comment3.text=\r\n\ Metoda\ getId\ vrati\ hodnotu\ atributu\ id\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Metoda\ toString\ vrati\ pripraveny\ retazec.\r\n
+comment5.params=cislo
+comment5.target=java.lang.String[]\ getTabulka(int)
+comment5.text=\r\n\ Metoda\ getTabulka\ vrati\ pole\ Stringov,\ ktore\ predstavuje\ \r\n\ udaje\ o\ hracovi\:\ meno,\ identifikacne\ cislo\ a\ vysledok,\ \r\n\ ktroy\ v\ hre\ dosiahol.\r\n
+numComments=6

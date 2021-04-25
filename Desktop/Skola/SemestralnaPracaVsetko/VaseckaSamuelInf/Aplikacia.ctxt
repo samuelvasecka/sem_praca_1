@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Aplikacia
+comment0.text=\r\n\ Tato\ trieda\ umoznuje\ hracovi\ komunikovat\ so\ vsetkymi\ \r\n\ ostatnymi\ triedami,\ pricom\ tvori\ ich\ celok.\r\n\ \r\n\ @author\ (Vasecka)\ \r\n\ @version\ (1.0\ 2018)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Metoda\ main\ spolupracuje\ so\ vsetkymi\ triedami,\ pricom\ ich\ \r\n\ postupne\ spusta\ a\ umoznuje\ vytvorit\ rad\ operacii,\ ktore\ davaju\r\n\ ako\ celok\ zmysel.\r\n
+numComments=2

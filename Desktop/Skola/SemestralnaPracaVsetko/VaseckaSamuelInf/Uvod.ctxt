@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Uvod
+comment0.text=\r\n\ Tato\ trieda\ umoznuje\ vypisat\ do\ terminalu\ uvod\ a\ zaver\ hry.\r\n\ \r\n\ @author\ (Vasecka)\ \r\n\ @version\ (1.0\ 2018)\r\n
+comment1.params=
+comment1.target=void\ uvod()
+comment1.text=\r\n\ Metoda\ uvod\ vypise\ do\ terminalu\ predpripravene\ retazce.\r\n
+comment2.params=hrac
+comment2.target=void\ zaver(Hraci)
+comment2.text=\r\n\ Metoda\ zaver\ vypise\ do\ terminalu\ predpripravene\ retazce,\ ktorych\r\n\ sucastou\ je\ aj\ meno\ hraca,\ ktory\ vyhral.\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tabulka
+comment0.text=\r\n\ Tato\ trieda\ vytvara\ tabulku\ v\ ktorej\ sa\ nachadzaju\ udaje\r\n\ o\ troch\ najlepsich\ hracoch\ a\ udaje\ aktualneho\ hraca.\r\n\ \r\n\ @author\ (Vasecka)\ \r\n\ @version\ (1.0\ 2018)\r\n
+comment1.params=topSkore1\ hrac\ cislo
+comment1.target=void\ tabulka(int[],\ Hraci,\ int)
+comment1.text=\r\n\ Metoda\ tabulka\ do\ terminalu\ vypise,\ tabulku,\ ktora\r\n\ obsahuje\ identifikacne\ cislo\ a\ vysledok\ prvych\ troch\ hracov\r\n\ a\ tiez\ meno,\ identifikacne\ cislo\ a\ vysledok\ aktualneho\ hraca.\r\n
+numComments=2

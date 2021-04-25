@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tutorial
+comment0.text=\r\n\ Tato\ trieda\ umoznuje\ zobrazovat\ v\ terminali\ tutorial.\r\n\ \r\n\ @author\ (Vasecka)\ \r\n\ @version\ (1.0\ 2018)\r\n
+comment1.params=
+comment1.target=void\ tutorial()
+comment1.text=\r\n\ Metoda\ tutorial\ po\ zadani\ vstupu\ pomocou\ Scannera\ (0,1),\ bud\ \r\n\ vypise\ tutorial\ do\ terminalu,\ alebo\ ho\ naopak\ nevypise.\r\n
+numComments=2

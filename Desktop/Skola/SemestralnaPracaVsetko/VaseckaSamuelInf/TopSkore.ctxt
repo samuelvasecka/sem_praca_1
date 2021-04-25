@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TopSkore
+comment0.text=\r\n\ Tato\ trieda\ umoznuje\ pracovat\ s\ textovym\ suborom,\ v\ ktorom\r\n\ su\ zaznamenane\ vysledky\ hracov,\ ktory\ vyhrali\ hru\ a\ pocet\ hracov,\r\n\ ktorych\ vysledky\ su\ zapisane.\r\n\ \r\n\ @author\ (Vasecka)\ \r\n\ @version\ (1.0\ 2018)\r\n
+comment1.params=
+comment1.target=void\ vlozDoSuboru()
+comment1.text=\r\n\ Metoda\ vlozDoSuboru\ zapise\ do\ suboru\ cislo\ 0,\ v\ pripade,\r\n\ ze\ je\ subor\ prazdny.\r\n
+comment2.params=zoznam
+comment2.target=void\ vlozDoSuboru1(int[])
+comment2.text=\r\n\ Metoda\ vlozDoSuboru1\ zapise\ do\ suboru\ cisla,\ ktore\ obsahuje\r\n\ pole\ typu\ int,\ ktore\ predstavuje\ parameter.\ Tieto\ cisla\r\n\ predstavuju\ vysledky\ hracov.\r\n
+comment3.params=cislo\ hrac1
+comment3.target=java.lang.String\ vyberZoSuboru1(int,\ Hraci)
+comment3.text=\r\n\ Metoda\ vyberZoSuboru\ precita\ cisla\ v\ subore,\ vyhodnoti\ ich\r\n\ a\ vrati\ retazec,\ ktory\ hovori\ o\ tom,\ na\ akej\ celkovej\ priecke\r\n\ sa\ hrac\ umiestnil\ a\ od\ kolko\ percent\ hracov\ je\ lepsi.\r\n
+numComments=4

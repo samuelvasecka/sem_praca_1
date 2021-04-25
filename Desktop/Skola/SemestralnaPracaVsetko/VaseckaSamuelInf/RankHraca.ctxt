@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RankHraca
+comment0.text=\r\n\ Tato\ trieda\ priraduje\ ku\ vysledku\ hraca\ rank,\r\n\ aky\ sa\ mu\ podarilo\ dosiahnut.\r\n\ \r\n\ @author\ (Vasecka)\ \r\n\ @version\ (1.0\ 2018)\r\n
+comment1.params=cislo
+comment1.target=Rank\ rankHraca(int)
+comment1.text=\r\n\ Metoda\ rankHraca\ vrati\ po\ vyhodnoteni\ zadaneho\ parametru\ cislo,\r\n\ ktory\ predstavuje\ vysledok\ hraca,\ rank\ ktory\ hrac\ dosiahol.\r\n
+numComments=2

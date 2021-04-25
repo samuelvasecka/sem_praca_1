@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Kontrola
+comment0.text=\r\n\ Tato\ trieda\ kontroluje\ po\ kazdom\ zasahu\ lode,\r\n\ ci\ je\ dana\ lod\ znicena\ uplne.\ Najprv\ zisti\ o\ aku\ velkost\r\n\ lode\ ide,\ a\ nasledne\ skontroluje\ policka,\ ktore\ sa\ nachadzaju\r\n\ v\ dvojrozmenrom\ poli\ s\ nazvom\ pole,\ okolo\ miesta\ zasahu.\r\n\ \r\n\ @author\ (Vasecka)\ \r\n\ @version\ (1.0\ 2018)\r\n
+comment1.params=pole
+comment1.target=Kontrola(Polia)
+comment1.text=\r\n\ Konstruktor\ vytvori\ asociaciu\ s\ triedou\ Polia\ a\ atributom\ \r\n\ lode1,\ 2,\ 3,\ 4\ priradi\ konkretne\ hodnoty.\r\n
+comment2.params=
+comment2.target=int\ getLode1()
+comment2.text=\r\n\ Metoda\ getLode1\ vrati\ hodnotu\ atributu\ lode1.\r\n
+comment3.params=
+comment3.target=int\ getLode2()
+comment3.text=\r\n\ Metoda\ getLode2\ vrati\ hodnotu\ atributu\ lode2.\r\n
+comment4.params=
+comment4.target=int\ getLode3()
+comment4.text=\r\n\ Metoda\ getLode3\ vrati\ hodnotu\ atributu\ lode3.\r\n
+comment5.params=
+comment5.target=int\ getLode4()
+comment5.text=\r\n\ Metoda\ getLode4\ vrati\ hodnotu\ atributu\ lode4.\r\n
+comment6.params=stlpec\ riadok
+comment6.target=void\ kontrola(int,\ int)
+comment6.text=\r\n\ Metoda\ kontrola\ skontroluje\ ci\ je\ lod,\ ktora\ bola\ zasiahnuta,\r\n\ uplne\ znicena\ a\ to\ tak\ zes\ kontroluje\ policka\ okolo\ zasahu\ so\ \r\n\ suradnicami\ zadanymi\ ako\ parametre\ stlpec\ a\ riadok,\r\n\ v\ dvojrozmernom\ poli\ s\ nazvom\ polea\ a\ ak\ je\ lod\ znicena\ uplne\r\n\ prepise\ hodnoty\ v\ danom\ poli\ tak,\ aby\ predstavovsli\ hodnoty\ \r\n\ prazdenho\ zasahu,\ z\ dovodu,\ ze\ dve\ lode\ nemozu\ stat\ hned\ vedla\ \r\n\ seba\ a\ preto\ by\ bolo\ zbytocne\ strielat\ na\ tieto\ pozicie.\r\n
+numComments=7

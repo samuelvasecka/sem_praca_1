@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Strielanie
+comment0.text=\r\n\ Tato\ trieda\ umoznuje\ hracovi\ strielat\ na\ konkretne\ pozicie\r\n\ v\ dvojrozmernom\ poli\ s\ nazvom\ pole,\ a\ vyhodnocuje\ ci\ sa\ na\ \r\n\ tejto\ pozicii\ lod\ nachadza\ alebo\ nenachadza.\r\n\ \r\n\ @author\ (Vasecka)\ \r\n\ @version\ (1.0\ 2018)\r\n
+comment1.params=pole\ hrac
+comment1.target=Strielanie(Polia,\ Hraci)
+comment1.text=\r\n\ Konstruktor\ vytvori\ asciaciu\ s\ triedami\ Polia\ a\ Hraci\ \r\n\ a\ kompoziciu\ s\ triedou\ Kontrola.\r\n
+comment2.params=
+comment2.target=void\ strielanieHrac()
+comment2.text=\r\n\ Metoda\ strielanieHrac\ umoznuje\ hracovi\ strielat\ an\ konkretne\ \r\n\ pozicie\ x,\ y,\ ktore\ zadava\ ako\ input\ pomocou\ Scannera.\ Tato\r\n\ metoda\ nsaledne\ rozhodne\ ci\ je\ na\ tejto\ pozicii\ lod\ alebo\ ci\ tam\r\n\ nie\ je,\ a\ ak\ sa\ tu\ lod\ nachadza,\ pouzije\ metodu\ s\ triedy\ Kontrola\r\n\ aby\ zisila\ ci\ je\ dana\ lod\ znicena\ uplne.\r\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Top3Skore
+comment0.text=\r\n\ Tato\ trieda\ umoznuje\ pracovat\ s\ textovym\ suborom,\ v\ ktorom\r\n\ su\ zaznamenane\ vysledky\ a\ identifikacne\ cisla\ prvych\ troch\ hracov,\r\n\ ktory\ vyhrali\ hru.\r\n\ \r\n\ @author\ (Vasecka)\ \r\n\ @version\ (1.0\ 2018)\r\n
+comment1.params=
+comment1.target=void\ vlozDoSuboru()
+comment1.text=\r\n\ Metoda\ vlozDoSuboru\ zapise\ do\ suboru\ predvolene\ hodnoty,\r\n\ v\ pripade,\ ze\ je\ subor\ prazdny.\r\n
+comment2.params=topSkore
+comment2.target=void\ vlozDoSuboru1(int[])
+comment2.text=\r\n\ Metoda\ vlozDoSuboru1\ zapise\ do\ suboru\ hodnoty,\ ktore\ ziska\ z\ parametru,\r\n\ ktory\ predstavuje\ pole\ typu\ int.\ Tieto\ hodnoty\ predstavuju,\ \r\n\ identifikacne\ cislo\ hraca\ a\ jeho\ vysledok\ v\ hre.\r\n
+comment3.params=cislo\ hrac1
+comment3.target=int[]\ vyberZoSuboru1(int,\ Hraci)
+comment3.text=\r\n\ Metoda\ vyberZoSuboru1\ na\ zaciatku,\ ak\ je\ subor\ prazdny\ spusti\r\n\ metodu\ vlozDoSuboru\ a\ vrati\ hodnoty\ precitane\ v\ subore,\ \r\n\ a\ okrem\ toho\ ak\ je\ aktulny\ hrac\ lepsi\ ako\ hraci\ na\ prvych\ \r\n\ troch\ poziciach,\ pozmeni\ udaje\ a\ spusti\ metodu\ vlozDoSuboru1.\ \r\n
+numComments=4
